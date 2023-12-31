@@ -26,7 +26,8 @@ public class Result : MonoBehaviour
         _wanderingSouls = FindObjectsOfType<WanderingSoul>();    
         _tiemr = FindObjectOfType<Timer>();    
         _player = FindObjectOfType<Player>();    
-        _levelManager = FindObjectOfType<LevelManager>();    
+        _levelManager = FindObjectOfType<LevelManager>();   
+        Time.timeScale = 1; 
     }
 
     private void Update()

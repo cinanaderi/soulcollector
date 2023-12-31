@@ -7,15 +7,15 @@ public class LevelManager : MonoBehaviour
 {
     public void LoadMenu()
     {
-        Time.timeScale = 1;
         SceneManager.LoadScene("Menu");
         Time.timeScale = 1;
     }
 
     public void LoadLevel()
     {
+        ResumeGame();
         SceneManager.LoadScene("Level");
-        Time.timeScale = 1;
+        ResumeGame();
     }
 
     public void Exit()
