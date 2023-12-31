@@ -1,5 +1,5 @@
 # PROJECT TITLE: SOUL COLLECTOR.
-#### Video Demo:  <https://youtu.be/fStZSqNvVGE>
+#### Video Demo:  <https://youtu.be/drKUO8ZIrSI>
 
 #### Description:
 
