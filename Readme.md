@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE: SOUL COLLECTOR.
+# PROJECT TITLE: SOUL COLLECTOR.
 #### Video Demo:  <https://youtu.be/fStZSqNvVGE>
 
 #### Description:
